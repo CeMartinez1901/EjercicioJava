@@ -8,10 +8,7 @@ package com.prueba.app.controlador;
 import com.prueba.app.Utils.ProjectException;
 import com.prueba.app.modelo.dao.FuncionarioDAO;
 import java.sql.Connection;
-import java.util.List;
 import com.prueba.app.modelo.vo.InfoFuncionario;
-import java.sql.SQLException;
-import java.util.Date;
 
 /**
  *
